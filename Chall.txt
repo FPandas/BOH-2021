@@ -1,0 +1,45 @@
+Password:
+BOH2021
+
+Chall 1
+Easy - Med
+150 pt
+flag BOH21{K33pTh1ngsS3f4W1thUS}
+~ 100%Secure
+I hide the flag inside this highly secure binary that no one in this world can ever break it.
+
+Chall2
+Easy - Med
+150pt
+BOH21{w4tst0d0w1th0utU}
+~ BestChallenge
+Welcome to BOH21, I created this binary just for you, and maybe I hide a things or two inside it :)
+
+Chall3
+Easy - Med
+150pt
+BOH21{1T1sS1mpl34sTh4t}
+~ NotSoDifficult
+Do not fear, this one will not be that difficult. But, no promise though. You just have to work smarter.
+
+Chall4
+Easy
+100pt
+BOH21{Axolotl_Periwinkle_Supremacy}
+~ A friend in need
+Lucky you!!! You have such a good friend that will give you the flag for free.... or is it?
+
+Chall5
+Hard
+300pt
+BOH21{R0und&R1ght&L3ft}
+~ TheRoundAboutTunnel
+People of Today Think Deeply Instead of Clearly. Perhaps the answer is right in front of us.
+
+Chall6
+input = 1337
+Hard
+250pt
+BOH21{Th3_D4vy_J0n3s_L0ck3r}
+~ The Locker
+The rise of the Virtual Locker has gaining attention over people from the internet. Legend said opening the locker will give the unlocker something immeasurable in value.
